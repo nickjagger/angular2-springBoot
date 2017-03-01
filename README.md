@@ -9,5 +9,5 @@ Based on the example here: [Angular2 and Spring Boot: Getting Started](https://b
 1. cd into the _backend_ project and run: `mvn spring-boot:run`
 This will start the Spring Boot application and also serve the front end from http://localhost:8080.
 
-2. With the backend running, cd into the _frontend\src\main\frontend_ project and run: `npm start`
+2. With the backend running, cd into the _frontend/src/main/frontend_ project and run: `npm start`
 This will start the angular-cli development server and make the frontend available at htp://localhost:4200. Code changes made to the frontend will be automatically reloaded by the dev server and be immediately visible.
